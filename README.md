@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hope
-- 👀 I’m interested in coding
+-  I’m interested in coding
 - 🌱 I’m currently studying informatics and majoring in economics and Risk management 
 - 💞️ I’m looking to collaborate anything on coding
 - 📫 How to reach me naledimethula93@gmail.com
